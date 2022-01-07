@@ -1,0 +1,25 @@
+#Contact-tag {
+    float: right;    
+}
+
+.contact-pg {
+    background: linear-gradient(to right, #222222 0%, #222222 50%, white 50%);
+    min-height: 900px;
+}
+
+@media (max-width: 1170px) {
+    .contact-pg {
+        background: linear-gradient(to bottom, #222222 0%, #222222 35%, white 35%);
+        min-height: 1000px;
+    }
+}
+
+@media (max-width: 870px) {
+    .contact-pg {
+        background: linear-gradient(to bottom, #222222 0%, #222222 35%, white 35%);
+        padding: 5px;
+        min-height: 1200px;
+    }
+    
+}
+

@@ -1,0 +1,39 @@
+.info-card {
+    min-height: 360px;
+    max-width: 400px;
+    background-color: white;
+    border-radius: 3px;
+    padding: 0 60px 40px 60px;
+    flex-direction: column;
+    margin: 0px;
+    display: flex;
+    color: #858585;
+}
+
+
+.info-card img {
+    margin-top: 10px;
+}
+
+.img-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 165px;
+}
+
+img[alt="A Walkie Talkie"] {
+    position: relative;
+    max-width: 51px;
+    max-height: 106px;   
+}
+
+img[alt="Running Rabbit"] {
+   max-width: 104px;
+   max-height: 62px;
+}
+
+img[alt="A Shield"] {
+    max-width: 98px;
+    max-height: 98px;
+}

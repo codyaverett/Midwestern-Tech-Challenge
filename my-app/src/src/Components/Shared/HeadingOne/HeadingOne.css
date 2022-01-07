@@ -1,0 +1,16 @@
+.ho-wrapper {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36pt;
+    font-weight: 700;
+}
+
+.heading {
+    border-bottom: 4px solid #debf79;
+}
+
+@media (max-width: 870px) {
+    .ho-wrapper {
+        margin-top: 15px;
+    }
+}

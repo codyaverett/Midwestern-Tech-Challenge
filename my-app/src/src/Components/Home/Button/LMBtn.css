@@ -1,0 +1,18 @@
+.lm-btn {
+    width: 130px;
+    height: 45px;
+    background-color: #DEBF79;
+    align-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.lm-btn:hover{
+    cursor: pointer;
+}

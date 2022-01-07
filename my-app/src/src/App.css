@@ -1,0 +1,18 @@
+.App-body {
+    margin: 18px 230px 0;
+    overflow: hidden;
+    background-color: #222222;
+    min-height: 900px;
+}
+
+@media (max-width: 1720px) {
+    .App-body {
+        margin: 0;
+    }
+}
+
+@media (max-width: 1520px) {
+    .App-body {
+        margin: 0 7px 0;
+    }
+}
