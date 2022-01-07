@@ -1,0 +1,19 @@
+.puzzle-prompt {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
+#puzzle-link {
+    color: #debf79;
+}
+
+#puzzle-link:hover {
+    cursor: pointer;
+}
+
+ul {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}

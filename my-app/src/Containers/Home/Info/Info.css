@@ -1,0 +1,22 @@
+.info-container {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    padding: 0px 100px 0px;
+}
+
+
+@media (max-width: 1080px) {
+    .info-container {
+        padding: 10px;
+    }
+}
+
+@media (max-width: 870px) {
+    .info-container {
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+}
+

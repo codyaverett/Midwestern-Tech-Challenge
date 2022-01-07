@@ -1,0 +1,13 @@
+export { default as LMBtn } from './Home/Button/LMBtn';
+export { default as InfoCardOne } from './Home/InfoCards/InfoCardOne';
+export { default as InfoCardTwo } from './Home/InfoCards/InfoCardTwo';
+export { default as InfoCardThree } from './Home/InfoCards/InfoCardThree';
+export { default as Logo } from './Shared/Logo/Logo';
+export { default as Integer } from './Shared/InfoText/Integer';
+export { default as HeadingTwo } from './Shared/HeadingTwo/HeadingTwo';
+export { default as Lorem } from './Shared/InfoText/Lorem';
+export { default as HeadingOne } from './Shared/HeadingOne/HeadingOne';
+export { default as Puzzle } from './Home/Puzzle/Puzzle';
+export { default as Proin } from './Shared/InfoText/Proin';
+export { default as Lorem2} from './Contact/Lorem2';
+export { default as Form } from './Contact/Form';
